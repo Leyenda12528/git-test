@@ -1,0 +1,8 @@
+*.txt
+*.psd
+*.eps
+*.zip
+license/*
+node_modules/*
+psd/*
+eps/*
